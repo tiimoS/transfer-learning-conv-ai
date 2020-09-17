@@ -4,7 +4,7 @@ import run_emoti_bot as model
 from telegram.ext import (Updater, CommandHandler, MessageHandler, Filters)
 
 version = '1.0'
-TOKEN = '1075640362:AAFgZChm3lLgMtIX9XCVf8LYQuCQV2WdTuw'
+TOKEN = 'YOUR_TOKEN'
 
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
