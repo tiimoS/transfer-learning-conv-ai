@@ -6,7 +6,7 @@ from telegram.ext import (Updater, CommandHandler, MessageHandler, Filters)
 from functools import wraps
 
 version = '1.0'
-TOKEN = '967943506:AAGth7OMur2Crsovl8h4Kk3oDOQgvFa-Atc'
+TOKEN = 'YOUR_TOKEN'
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
                     level=logging.INFO)
