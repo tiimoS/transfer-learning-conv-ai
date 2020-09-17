@@ -4,7 +4,7 @@ import run_gpt_daily_bot as model
 from telegram.ext import (Updater, CommandHandler, MessageHandler, Filters)
 
 version = '1.0'
-TOKEN = '1007535707:AAFJZjWaPvG1n7Mqshg9Wbgroo6fsN6L9pA'
+TOKEN = 'YOUR_TOKEN'
 
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
